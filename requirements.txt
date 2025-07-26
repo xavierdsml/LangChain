@@ -25,5 +25,9 @@ python-dotenv
 numpy
 scikit-learn
 
-#UI 
+# UI 
 streamlit
+
+# structure_output
+pydantic
+pydantic[email]
