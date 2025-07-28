@@ -25,3 +25,6 @@ parser = StrOutputParser()
 chain = prompt | model | parser
 result = chain.invoke({'topic':'cricket'})
 print(result)
+
+# visulization chain
+chain.get_graph().print_ascii()

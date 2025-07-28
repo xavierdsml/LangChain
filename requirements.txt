@@ -31,3 +31,6 @@ streamlit
 # structure_output
 pydantic
 pydantic[email]
+
+# draw graph
+grandalf
