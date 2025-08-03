@@ -2,6 +2,9 @@
 langchain
 langchain-core
 
+# LangChain Community
+langchain-community
+
 # OpenAI Integration
 langchain-openai
 openai
