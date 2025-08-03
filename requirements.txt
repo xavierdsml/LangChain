@@ -40,3 +40,6 @@ grandalf
 
 # pyPDF
 pypdf
+
+# webBase data loading
+beautifulsoup4
