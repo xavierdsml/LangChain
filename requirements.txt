@@ -46,3 +46,7 @@ pypdf
 
 # webBase data loading
 beautifulsoup4
+
+# vector database
+chroma
+tiktoken
