@@ -7,7 +7,7 @@ Here, I document everything I'm learning about building AI-powered applications 
 
 1. [Getting Started with LangChain – Beginner Guide](https://xavierdsml.hashnode.dev/getting-started-with-langchain-a-beginners-guide-to-llm-powered-applications)
 2. [Understanding LangChain Components: A High-Level Overview](https://xavierdsml.hashnode.dev/understanding-langchain-components-a-high-level-overview)
-
+3.
 - Learn what LangChain is, what problems it solves, and how to get started.
 
 ## 🧠 Why This Repo?
