@@ -50,3 +50,6 @@ beautifulsoup4
 # vector database
 chroma
 tiktoken
+
+# Tools
+duckduckgo-search
