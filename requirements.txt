@@ -52,4 +52,4 @@ chroma
 tiktoken
 
 # Tools
-duckduckgo-search
+ddgs
